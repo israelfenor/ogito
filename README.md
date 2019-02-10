@@ -1,5 +1,5 @@
 # Ogito
-Archivos de ayuda para hacer más cómodo el trabajo con GIT desde terminal linux
+Archivos de ayuda para hacer más cómodo el trabajo con GIT desde terminal bash (GNU/Linux)
 
 ## bash_aliases
 Reemplazo de ~/.bash_aliases para mostrar en el prompt la rama de git
