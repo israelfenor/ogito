@@ -6,3 +6,5 @@ echo 'if [ -f ~/.bash_prompt ]; then
     . ~/.bash_prompt
 fi
 ' >> ~/.bashrc
+
+dconf load /org/gnome/terminal/legacy/profiles:/ < gnome-terminal-profiles.dconf
